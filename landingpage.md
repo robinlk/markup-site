@@ -8,7 +8,7 @@
 ### Need to tick this off
 - [ ] put tick here
 - [ ] and here
-- [ ] or even over here
+- [ ] or even here
 
 ### Article
 The body of the article. Lots of Text goes here.
