@@ -16,4 +16,6 @@
 The body of the article. Lots of Text goes here.
 
 image
-![The woosh ball](https://www.ideonet.de/gtx/images/GTX-defense.jpg)
+![The woosh ball|100](https://www.ideonet.de/gtx/images/GTX-defense.jpg)
+
+![enter image description here](https://www.ideonet.de/gtx/images/GTX-defense.jpg)
