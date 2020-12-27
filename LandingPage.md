@@ -13,9 +13,12 @@
 - [ ] or even here
 
 ### Article
-The body of the article. Lots of Text goes here.
 
-image
-![The woosh ball|100](https://www.ideonet.de/gtx/images/GTX-defense.jpg)
+This is paragraph 1.
 
-![enter image description here](https://www.ideonet.de/gtx/images/GTX-defense.jpg)
+This is the second paragraph.
+
+This is the third paragraph.
+
+
+
